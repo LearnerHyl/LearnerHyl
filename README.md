@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hyl, a computer science enthusiast currently studying at **Huazhong University of Science and Technology**. My passion lies in building robust distributed systems and diving deep into the world of databases. As a budding software developer, I thrive on solving complex problems and crafting efficient solutions. My research interests are database kernels and distributed systems. I have systematically studied CMU15-445 and MIT6.824, and completed the supporting experiments of the course carefully and independently.
+I'm Hyl, a computer science enthusiast currently studying at **Huazhong University of Science and Technology**. My passion lies in building robust distributed systems and diving deep into the world of databases.
 
 ## 🔧 Tech Stack
 - **Languages:** C++, Go, Python
