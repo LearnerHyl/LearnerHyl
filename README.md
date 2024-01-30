@@ -14,14 +14,10 @@ I am currently Learning:
 ## 📅 TODOLIST
 - [ ] Read LevelDB source code and understand its design principles(doing).
 - [ ] Gain a deeper understanding of Raft algorithm and its applications in the industry(doing).
-- [ ] Implement Raft algorithm in a specific project(doing).
 - [ ] Explore advanced topics in distributed systems
 - [ ] ...
 
 ## 📈 GitHub Stats
 [![LearnerHyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnerHyl&show_icons=true&theme=cobalt)](https://github.com/LearnerHyl)
-
-## 🌐 Connect with Me
-Feel free to connect with me on [Email](Jack76495@gmail.com). Let's share knowledge and explore the vast world of technology together!
 
 Looking forward to contributing more to the tech community and expanding my knowledge horizons. Happy coding! 🚀
