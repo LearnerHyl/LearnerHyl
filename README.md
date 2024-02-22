@@ -9,13 +9,12 @@ I'm Hyl, a computer science enthusiast currently studying at **Huazhong Universi
 
 ## 🚀 Projects
 I am currently Learning:
-- [XDP-Tutorial](https://github.com/LearnerHyl/xdp-tutorial): XDP is a part of the upstream Linux kernel, and enables users to install packet processing programs into the kernel.
+- [LevelDB](https://github.com/google/leveldb):LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [Etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system.
 
 ## 📅 TODOLIST
-- [ ] Read LevelDB source code and understand its design principles(doing).
-- [ ] Gain a deeper understanding of Raft algorithm and its applications in the industry(doing).
-- [ ] Explore advanced topics in distributed systems
-- [ ] ...
+- [ ] Explore advanced topics in distributed systems.
+- [ ] Actively seek opportunities to contribute to open source communities.
 
 ## 📈 GitHub Stats
 [![LearnerHyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnerHyl&show_icons=true&theme=cobalt)](https://github.com/LearnerHyl)
