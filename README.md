@@ -5,16 +5,13 @@ I'm Hyl, a computer science enthusiast currently studying at **Huazhong Universi
 ## 🔧 Tech Stack
 - **Languages:** C++, Go, Python
 - **Areas of Interest:** Distributed Systems, Databases, Storage
-- **Tools & Frameworks:** Git, Docker, Kubernetes
+- **Tools & Frameworks:** Git, Docker.
 
 ## 🚀 Projects
 I am currently Learning:
 - [LevelDB](https://github.com/google/leveldb):LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [Etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system.
-
-## 📅 TODOLIST
-- [ ] Explore advanced topics in distributed systems.
-- [ ] Actively seek opportunities to contribute to open source communities.
+- CS144,CS162.
+- How to use smart network cards to speed up databases
 
 ## 📈 GitHub Stats
 [![LearnerHyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnerHyl&show_icons=true&theme=cobalt)](https://github.com/LearnerHyl)
