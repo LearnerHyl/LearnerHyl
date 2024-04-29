@@ -10,7 +10,6 @@ I'm Hyl, My passion lies in building robust distributed systems and diving deep 
 ## 🚀 Projects
 I am currently Learning:
 - [LevelDB](https://github.com/google/leveldb):LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- CS144,CS162.
 - How to use smart network cards to speed up databases
 
 ## 📈 GitHub Stats
