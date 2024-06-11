@@ -8,11 +8,10 @@ I'm Hyl, My passion lies in building robust distributed systems and diving deep 
 - **Tools & Frameworks:** Git, Docker.
 
 ## 🚀 Projects
-I am currently Learning:
+I am currently doing:
 - [LevelDB](https://github.com/google/leveldb):LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- How to use smart network cards to speed up databases
+- In order to make better use of the capabilities of modern high-speed network cards in a storage-computing separation database based on Aurora, I used a DPDK-based network acceleration service to transform the communication process between nodes, thereby further improving database performance.
 
 ## 📈 GitHub Stats
 [![LearnerHyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnerHyl&show_icons=true&theme=cobalt)](https://github.com/LearnerHyl)
 
-Looking forward to contributing more to the tech community and expanding my knowledge horizons. Happy coding! 🚀
